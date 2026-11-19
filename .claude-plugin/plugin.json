@@ -1,8 +1,8 @@
 {
   "name": "hyperperps-liquidation-heatmap",
-  "displayName": "HyperPerps Liquidation Heatmap",
+  "displayName": "Hyperliquid Liquidation Heatmap – Crypto Heatmap",
   "version": "1.0.0",
-  "description": "Free, live Hyperliquid liquidation heatmap for BTC, ETH, SOL and HYPE: liquidation clusters, stop-loss pools, take-profit walls and crowd positioning, from a remote MCP server. No API key.",
+  "description": "Hyperliquid liquidation heatmap and crypto heatmap for BTC, ETH, SOL and HYPE: live liquidation clusters, stop-loss pools, take-profit walls and crowd positioning from a remote MCP server. No API key.",
   "author": {
     "name": "HyperPerps",
     "url": "https://hyperperps.app"
@@ -17,8 +17,11 @@
   "keywords": [
     "hyperliquid",
     "liquidation-heatmap",
+    "crypto-heatmap",
+    "liquidation-levels",
     "crypto",
     "perpetuals",
+    "bitcoin",
     "trading",
     "mcp",
     "market-data"

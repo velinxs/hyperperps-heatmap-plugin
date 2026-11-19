@@ -9,7 +9,7 @@
     {
       "name": "hyperperps-liquidation-heatmap",
       "source": "./",
-      "description": "Free, live Hyperliquid liquidation heatmap (BTC, ETH, SOL, HYPE) via a remote MCP server. No API key."
+      "description": "Hyperliquid liquidation heatmap and crypto heatmap (BTC, ETH, SOL, HYPE) via a remote MCP server. No API key."
     }
   ]
 }

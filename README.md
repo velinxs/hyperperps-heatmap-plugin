@@ -1,6 +1,6 @@
-# HyperPerps Liquidation Heatmap — MCP plugin
+# Hyperliquid Liquidation Heatmap – Crypto Heatmap MCP plugin
 
-Free, live liquidation heatmap for Hyperliquid perps, as a remote MCP server. Ask your AI where BTC, ETH, SOL or HYPE traders get liquidated, where their stop-losses and take-profits rest, and how the crowd is positioned. No API key, no account.
+Hyperliquid liquidation heatmap and crypto heatmap, live, as a remote MCP server. Ask your AI where BTC, ETH, SOL or HYPE traders get liquidated, where their stop-losses and take-profits rest, and how the crowd is positioned. No API key, no account.
 
 - **Server:** `https://hyperperps.app/mcp` (Streamable HTTP, read-only)
 - **Tool:** `get_liquidation_heatmap`
