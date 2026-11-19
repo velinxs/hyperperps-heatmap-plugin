@@ -1,0 +1,15 @@
+{
+  "name": "hyperperps",
+  "description": "HyperPerps plugins: free, live Hyperliquid market data for AI agents.",
+  "owner": {
+    "name": "HyperPerps",
+    "url": "https://hyperperps.app"
+  },
+  "plugins": [
+    {
+      "name": "hyperperps-liquidation-heatmap",
+      "source": "./",
+      "description": "Free, live Hyperliquid liquidation heatmap (BTC, ETH, SOL, HYPE) via a remote MCP server. No API key."
+    }
+  ]
+}
